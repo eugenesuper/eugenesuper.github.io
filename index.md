@@ -1,38 +1,19 @@
 
 
-## Eugene Radkevich
+## About Me
 
-PROJECT MANAGER IN THE CONSTRUCTION, CIVIL ENGINEER,
-JUNIOR SOFTWARE ENGINEER IN MINSK, BELARUS
+At the moment I am 19 years engaged in the development of projects in the field of industrial construction.
+During my career I participated in the following projects:
+• Section Kozhukhovskaya metro line in Moscow. The site includes 4 stations, 9 tunnel constructions, distillation tunnels with a total length of 13.3 km.
+• The building of Ambulatory. Maracay, Venezuela. Monolithic reinforced concrete.
+• The building of the kindergarten with a total area of ​​1120 m2. Maracay, Venezuela. Monolithic reinforced concrete.
+• School building with a total area of ​​1689 m2. Maracay, Venezuela. Monolithic reinforced concrete.
+• Metro station "Mikhalovo". Development of the constructive part of the project. Minsk, Belarus
+• Engineering building in Sochi, Russia (8-storey frame-monolithic building). Development of the constructive part of the project.
 
-### Markdown
+Since 2018, I have been learning C #, JAVA programming languages. I have no realized projects in this area yet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Interests
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eugenesuper/eugenesuper.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My personal interests include:
+family, sports, relaxing with friends
