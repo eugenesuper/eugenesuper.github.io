@@ -1,8 +1,10 @@
-title: Eugene Radkevich 
+
 
 ## Eugene Radkevich
 
-PROJECT MANAGER IN THE CONSTRUCTION, CIVIL ENGINEER
+PROJECT MANAGER IN THE CONSTRUCTION, CIVIL ENGINEER,
+JUNIOR SOFTWARE ENGINEER IN MINSK, BELARUS
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
